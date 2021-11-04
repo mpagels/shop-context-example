@@ -1,7 +1,7 @@
 import React from "react";
-import AppHeader from "./components/AppHeader/AppHeader";
-import Cart from "./components/Cart/Cart";
-import Shop from "./components/Shop/Shop";
+import AppHeader from "./components/AppHeader";
+import Cart from "./components/Cart";
+import Shop from "./components/Shop";
 import { CartContextProvider } from "./contexts/CartContext";
 
 function App() {
